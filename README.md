@@ -1,6 +1,5 @@
 # bank-customer-churn-analysis
-# Bank Customer Churn Analysis
-
+![Dashboard Preview](dashboard.png)
 Analyzed a 10,000-customer bank dataset in Excel to identify churn drivers.
 
 ## What I did
